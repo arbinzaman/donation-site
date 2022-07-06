@@ -1,0 +1,63 @@
+body{
+    font-family: 'Open Sans', sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+h1.help {
+    margin: 0;
+}
+.hero{
+ background-image: url(images/donation4.jpg);
+ height: 1000px;
+ background-position: center;
+ background-repeat: no-repeat;
+ background-size: cover;
+ text-align: center;
+}
+
+.help{
+
+    font-size: 90px;
+    color: whitesmoke;
+    padding-top: 250px;
+}
+.ban{
+    padding-bottom: 56px;
+    color: wheat;;
+  
+}
+a.button{
+   
+    color: white;
+    text-decoration: none;
+    background-color: orangered;
+    border-radius: 10px;
+    font-size: 30px;
+    padding: 12px;
+}
+.tex{
+    text-align: center;
+}
+.donate{
+    font-size: 80px;
+}
+.texp{
+    font-size: 20px;
+    margin-top: -30px;
+}
+.flex-container {
+    margin-left: 29%;
+    display: flex;
+    font-size: 30px;
+    font-weight: 20px;
+  
+  }
+  
+  .flex-container > div {
+    background-color: #f1f1f1;
+    margin: 10px;
+    padding: 20px;
+    font-size: 30px;
+    text-align: center;
+  }
