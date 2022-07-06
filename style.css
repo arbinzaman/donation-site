@@ -47,17 +47,164 @@ a.button{
     margin-top: -30px;
 }
 .flex-container {
-    margin-left: 29%;
+    margin-left: 18%;
     display: flex;
-    font-size: 30px;
+ 
     font-weight: 20px;
+    padding-top: 84px;
   
   }
   
   .flex-container > div {
     background-color: #f1f1f1;
     margin: 10px;
-    padding: 20px;
-    font-size: 30px;
+    padding: 48px;
+    font-size: 40px;
     text-align: center;
   }
+  .amount{
+    color:  grey;
+    padding-top: 100px;
+   
+  }
+  hr {
+    width: 50%;
+    color:  #f1f1f1;;
+    margin-bottom: 71px;
+    }
+  
+  a.button1{
+   
+    color: white;
+    text-decoration: none;
+    background-color: orangered;
+    border-radius: 10px;
+    font-size: 30px;
+    padding: 12px;
+}
+#to{
+    border-style: solid;
+    border-color: coral;
+    color: coral;
+}
+.cen{
+    text-align: center;
+}
+h1.plan {
+    font-size: 65px;
+    margin-top: 250px;
+}
+p.root {
+    width: 50%;
+   padding-left: 500px;
+   color: gray;
+}
+.flex {
+    margin-bottom: 150px;
+    display: flex;
+}
+.f {
+    width: 50%;
+    margin-left: 100px;
+    margin-top: 100px;
+    text-align: left;
+    padding: 29px;
+    background-color: #beeced;
+}
+
+.g{
+
+        width: 50%;
+        margin-left: 100px;
+        margin-top: 100px;
+        text-align: left;
+        padding: 29px;
+        background-color: #e8e0ba;
+    }
+
+.h{
+  
+        width: 50%;
+        margin-left: 100px;
+        margin-top: 100px;
+        padding-right: 70px;
+        text-align: left;
+        padding: 29px;
+        background-color: #bac5e8;
+        margin-right: 50px;
+
+    }
+    .iframe{
+        margin-left: 70px;
+    }
+    .flex2{
+        display: flex;
+    }
+
+    p.flex3 {
+        margin-left: 50px;
+        margin-right: 40px;
+        margin-top: 100px;
+        font-size: 25px;
+    }
+    .divi {
+        margin-top: 50px;
+    }
+
+
+
+    .manu {
+        text-align: center;
+    }
+
+    .manu2 {
+
+        width: 50%;
+        margin-left: 450px;
+        padding: 86px;
+        background-color: wheat;
+    }
+    
+
+    h1.ala {
+        font-size: 65px;
+        margin-top: 250px;
+        margin-bottom: 70px
+    }
+
+    p.ulu {
+        font-size: 20px;
+        margin-top: -32px;
+        margin-bottom: 63px;
+        color: lightslategray;
+    }
+
+
+
+    .from{
+    padding: 52px,0px;
+    padding-left: 445px;
+    padding-top: 27px;
+    padding-bottom: 21px;
+    margin-top: 85px;
+    margin-bottom: 45px;
+}
+
+.subcribe {
+    padding: 19px;
+    font-size: 26px;
+    padding-left: 60px;
+    padding-right: 60px;
+    background-color: coral;
+    border: none;
+    color: white;
+    margin-left: -5px;
+}
+
+footer {
+    text-align: center;
+    margin-top: 100px;
+    background-color: beige;
+    padding: 55px;
+    font-family: 'Splash', cursive;
+}
